@@ -1,7 +1,7 @@
 //Tipo Clase
 
 class Persona {
-  constructor(nombre, apellido) {
+  constructior(nombre, apellido) {
     this.nombre = nombre;
     this.apellido = apellido;
   }
