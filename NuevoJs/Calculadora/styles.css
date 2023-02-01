@@ -1,0 +1,26 @@
+body {
+  font-family: sans-serif;
+  text-align: center;
+  background-color: antiquewhite;
+}
+
+input {
+  display: block;
+  margin: auto;
+  margin-bottom: 15px;
+}
+.op {
+  background-color: brown;
+  color: aqua;
+  border-radius: 60%;
+  border-color: blue;
+}
+.text {
+  color: rgb(235, 5, 5);
+}
+.coin {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
